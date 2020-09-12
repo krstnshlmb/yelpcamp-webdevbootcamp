@@ -1,13 +1,13 @@
 {
-  "name": "v1",
-  "version": "1.0.0",
-  "description": "YelpCamp v1",
+  "name": "v11",
+  "version": "11.0.0",
+  "description": "YelpCamp v11",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Colt Steele",
-  "license": "ISC",
+  "author": "Kristina Shelemba",
+  "license": "",
   "dependencies": {
     "body-parser": "^1.14.1",
     "connect-flash": "^0.1.1",
